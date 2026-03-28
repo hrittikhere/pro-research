@@ -1,0 +1,10 @@
+{
+  "name": "pro-research",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Multi-agent research orchestrator for Claude Code with Excalidraw diagrams and Remotion GIF visualizations",
+  "scripts": {
+    "remotion:install": "cd remotion && npm install",
+    "remotion:studio": "cd remotion && npx remotion studio"
+  }
+}
